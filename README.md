@@ -1,2 +1,2 @@
 # -
-## <sub>Because GitHub won't allow the use of a space.</sub>
+#### Because GitHub won't allow the use of a space.
