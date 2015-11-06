@@ -1,2 +1,2 @@
-# 
-The heading is a space. Everything is space. --The book of Space
+# -
+## <sub>Because GitHub won't allow the use of a space.</sub>
